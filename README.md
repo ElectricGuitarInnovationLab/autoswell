@@ -8,3 +8,9 @@ By V.J. Manzo
 For a demo of the main device, see: https://youtu.be/gQPeWwzdJrQ
 
 For a random "swell" mode demo, see: https://youtu.be/U5mwRaEi1gQ 
+
+## Contributing
+
+Navigate to the [CONTRIBUTING.md](./CONTRIBUTING.md) file for guidelines on how to contribute to the project.
+
+Music, audio, and other creative works produced using autoswell are not considered Contributions and remain the sole property of their creators.
